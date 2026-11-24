@@ -17,3 +17,5 @@ The design object of the field is the **contest architecture**, defined as the c
 5. Sequencing architecture — the order and timing of moves across domains and phases (before / during / after).
 
 Contest Engineering's technical claim is that these five are coupled: changing one changes the others, and treating them separately produces predictable failure. The field's methods exist to model, design, and validate that coupling.
+
+**CC BY 4.0** (open, citable, standard for specifications).
